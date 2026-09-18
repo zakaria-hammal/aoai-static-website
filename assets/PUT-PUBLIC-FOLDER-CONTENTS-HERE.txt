@@ -1,0 +1,1 @@
+Copy the contents of your Next.js public/ folder into this folder (logo.png, AOAI.png, PI.png, ML.png, NEURAL.png, logo-*.png, Orange_1.png, merouane-debah.jpg, huawei_sponsorship.svg, abstract-lines-2.png, aoai-genesis.pdf, ...).
